@@ -1,0 +1,475 @@
+body {
+
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    width: 1440px;
+    height: 495px;
+    background: url(img/bg-image@2x.jpg)  center center;
+    background-size: cover;
+}
+
+.fuga{
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 20px 0 0 20px;
+}
+
+
+.fuga{
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 20px 0 0 20px;
+}
+
+.fuga{
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 20px 0 0 20px;
+}
+
+
+.fuga{
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 20px 0 0 20px;
+}
+.logo{
+    width: 140px;
+    height: 40px;
+    display: inline-block;
+    margin: 20px 0 0 20px;
+    
+    background: url(img/logo@2x.png) top left;
+    background-size: cover;
+}
+.actions {
+    display: flex;
+    width: 10%;
+    justify-content: space-around;
+    padding: 20px 20px 0 0;
+}
+
+
+
+  .downloasd {
+    padding: 15px 20px 25px 20px;
+    text-align: center;
+    background-color: white;
+    width: 69px;
+    height: 5px;
+    border-radius: 18px;
+    font-size: 14px;
+   
+    
+    
+  }
+
+.text{
+ font-size: 45px;
+}
+
+.text p{
+    font-size: 18px;
+}
+
+.works{
+    border: 2px solid deepskyblue;
+    color: deepskyblue;
+    border-radius: 22px;
+    padding: 0 50px 0 50px;
+    text-align: center;
+    margin-left: 10px;
+    
+    
+    
+}
+
+.icons{
+
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+
+.google{
+    background: url(img/google-play@2x.jpg);
+    width: 184px;
+    height: 55px;
+    background-size: contain;
+
+}
+
+.download {
+
+    background: url(img/download@2x.png);
+    width: 165px;
+     height: 55px;
+     background-size: contain;
+}
+
+
+
+
+.polska{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-content: center;
+    font-size: 45px;
+    
+}
+
+
+/* Второй блок - Ли*/
+.container1 h1{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.menu {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+     
+}
+
+.menu ul {
+display: flex;
+list-style-type: none;
+font-size: 14px;
+justify-content: space-between;
+width: 80%;
+
+
+}
+
+.menu a{
+   
+   
+    opacity: 0.9;
+    border-radius: 12px;
+    background-color: rgb(193, 235, 252);
+    color: white;
+    font-size: 11px;
+    padding: 2px 8px 2px 8px;
+    
+    
+}
+
+.job{
+  background: url(img/job@2x.png) no-repeat ; 
+  width: 50px;
+  height: 43px;
+  
+  background-size: contain;
+  
+
+}
+.job li{
+    padding-top: 50px;
+}
+.houses{
+  background: url(img/houses@2x.png) no-repeat;  
+  width: 50px;
+  height: 43px;
+  
+  background-size: contain;
+}
+
+.houses li {
+    padding-top: 50px;
+}
+
+.bank{
+  background: url(img/bank-account@2x.png) no-repeat;
+   
+  width: 50px;
+  height: 43px;
+  
+  background-size: contain;
+}
+.bank li{
+    padding-top: 50px;
+
+}
+.ticket{
+ background: url(img/tickets@2x.png) no-repeat;
+   
+  width: 50px;
+  height: 43px;
+  
+  background-size: contain;
+}
+.ticket li{
+    padding-top: 50px;
+}
+.transfer{
+ background: url(img/transfer@2x.png) no-repeat;
+ 
+  width: 50px;
+  height: 43px;
+  
+  background-size: contain;
+}
+.transfer li{
+    padding-top: 50px;
+}
+.insurances{
+ background: url(img/insurance@2x.png) no-repeat;
+  
+  width: 50px;
+  height: 43px;
+  
+  background-size: contain;
+}
+.insurances li{
+    padding-top: 50px;
+}
+.legalization{
+ background: url(img/legalisation@2x.png)no-repeat;
+  
+  width: 50px;
+  height: 43px;
+  
+  background-size: contain;
+}
+.legalization li {
+    padding-top: 50px;
+}
+.phone{
+ background: url(img/top-up-phone@2x.png) no-repeat;
+  
+  width: 50px;
+  height: 43px;
+  
+  background-size: contain;
+}
+.phone li{
+    padding-top: 50px;
+
+}
+
+
+
+.newwork{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.ill {
+    background: url(img/ill-1@2x.jpg) no-repeat;
+    width: 520px;
+    height: 480px ;
+    display: inline-block;
+    background-size: contain;
+}
+
+.copy  h1{
+ font-size: 35px;
+
+} 
+
+.copy p{
+    margin: 10px 0 0 45px;
+    line-height:  25px;
+    
+}
+
+.copy h6 {
+    border: 0px solid orange;
+    background-color: orange;
+    color: white;
+    width: 70px;
+    text-align: center;
+    border-radius: 8px;
+    margin-left: 45px;
+    font-size: 14px;
+    padding: 5px 0 5px 0;
+
+}
+
+.transport{
+    display: flex;
+    justify-content: space-between;
+}
+
+.car{
+    background: url(img/ill-2@2x.jpg) no-repeat;
+   
+    width: 528px;
+    height: 554px;
+    background-size: contain;
+}
+.bus h1{
+    font-size: 30px;
+}
+.bus p{
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.starphone {
+    display: flex;
+    justify-content: space-between;  
+}
+
+.cash {
+
+    background: url(img/ill-3@2x.jpg) no-repeat;
+    background-size: contain;
+    width: 479px;
+  height: 437px;
+}
+.startext h1{
+    font-size: 30px;
+} 
+
+.startext p{
+    font-size: 16px; 
+    line-height: 25px;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.formphone h1{
+font-size: 30px;
+}
+.formphone p{
+line-height: 25px;
+font-size: 16px;
+}
+.pagephone {
+    background: url(img/ill-4@2x.jpg) no-repeat;
+    width: 523px;
+     height: 400px;
+     background-size: contain;
+       
+     
+   }
+
+   .getin {
+       display: flex;
+       justify-content: space-between;
+   }
+
+   .fotoget {
+       background: url(img/ill-5@2x.jpg) no-repeat;
+       width: 479px;
+       height: 434px;
+       background-size: contain;
+
+   }
+
+   .textget {
+      line-height: 25px;
+
+   }
+
+   .finish {
+       border-top: 1px solid gray;
+       border-bottom: 1px solid gray;
+
+       width: 100%;
+
+   }
+
+   .finishfoto {
+       background: url(img/logo-footer@2x.png) no-repeat;
+       max-width: 100%;
+       height: auto;
+       width: 104.9px;
+       height: 30px;
+       background-size: contain;
+      
+   }
+
+   .finishtext {
+       font-size: 11px;
+       color:gray;
+      display: flex;
+      justify-content: flex-start;
+
+   }
+
+   .hot ul{
+      /* margin: 0 0 41px 1000px;
+       font-size: 11px;
+       color: gray;
+       margin-right: 87px;
+       align-items: flex-start;
+       display: flex;
+       justify-content: space-between;
+        */
+
+   }
+
+   .container {
+    font-family: 'Montserrat', sans-serif;
+   }
+
+   h1{
+       font-size: 30px;
+   }
+  
+
+
+
+  /* ......................................
+
+
+MEDIA 
+
+
+  ..........................................*/
+
+@media (max-width: 600px){
+    .finishfoto, .finishtext, .hot { margin: 0;}
+    .finish {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 30px 0 0 0;
+    }
+    .finishfoto {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .hot {
+        display: flex;
+        align-items: center;
+        width: 231px;
+        justify-content: space-between;
+    }
+    .hot a {
+        font-size: 11px;
+        color: gray;
+        display: inline-block;
+    }
+
+    .hot div {
+        width: 2px;
+        height: 2px;
+        background: gray;
+        border-radius: 50%; 
+
+    }
+    .header {
+        width: 100%;
+    }
+
+
+
+}
+ 
